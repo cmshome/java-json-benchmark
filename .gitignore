@@ -1,0 +1,23 @@
+# Build
+target/
+*.csv
+*.txt
+build/
+.gradle/
+*.gz
+*.tar
+
+# IDE
+.idea/
+*.iml
+/nbproject/
+out/
+
+# Misc 
+.DS_Store
+.swp
+
+# Runtime
+*.json
+!ami.json
+*.log
